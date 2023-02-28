@@ -1,0 +1,1 @@
+const SignInWithEmailAndPassword = (email, password) => {};
