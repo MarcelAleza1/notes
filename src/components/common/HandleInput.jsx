@@ -16,38 +16,39 @@ export const HandleInput = () => {
           <tr>
             <td className="text-gray-600 border border-slate-300">001</td>
             <td className="text-gray-600 border border-slate-300">
-              The Sliding Mr. Bones (Next Stop, Pottersville)
+              Mazi Aleza
             </td>
             <td className="text-gray-600 border border-slate-300">
-              Malcolm Lockyer
+              Math
             </td>
-            <td className="text-gray-600 border border-slate-300">1961</td>
+            <td className="text-gray-600 border border-slate-300">A</td>
             <td className="text-gray-600 border border-slate-300">99959466</td>
           </tr>
           <tr>
             <td className="text-gray-600 border border-slate-300">002</td>
             <td className="text-gray-600 border border-slate-300">
-              Witchy Woman
+              Abi Mazalo
             </td>
             <td className="text-gray-600 border border-slate-300">
-              The Eagles
+              Computer science
             </td>
-            <td className="text-gray-600 border border-slate-300">1972</td>
+            <td className="text-gray-600 border border-slate-300">B</td>
             <td className="text-gray-600 border border-slate-300">8584596</td>
           </tr>
           <tr>
             <td className="text-gray-600 border border-slate-300">003</td>
             <td className="text-gray-600 border border-slate-300">
-              Shining Star
+              Sandy
             </td>
             <td className="text-gray-600 border border-slate-300">
-              Earth, Wind, and Fire
+              Math
             </td>
-            <td className="text-gray-600 border border-slate-300">1975</td>
+            <td className="text-gray-600 border border-slate-300">C</td>
             <td className="text-gray-600 border border-slate-300">985857</td>
           </tr>
         </tbody>
       </table>
+      <button className="btn bg-blue-500 ml-5 p-2">Send </button>
     </>
   );
 };
